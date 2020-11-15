@@ -1,0 +1,44 @@
+{
+    "list": [{
+            "no": "1",
+            "item": "Rice",
+            "quantity": "5",
+            "unit": "Kg",
+            "department": "Grocery",
+            "notes": "Boiled Rice"
+        },
+        {
+            "no": "2",
+            "item": "Apple",
+            "quantity": "2",
+            "unit": "Kg",
+            "department": "Grocery",
+            "notes": "Fruits"
+
+        },
+        {
+            "no": "3",
+            "item": "Orange",
+            "quantity": "3",
+            "unit": "Kg",
+            "department": "Grocery",
+            "notes": "Fruits"
+        },
+        {
+            "no": "4",
+            "item": "Mango",
+            "quantity": "5",
+            "unit": "Kg",
+            "department": "Grocery",
+            "notes": "Fruits"
+        },
+        {
+            "no": "5",
+            "item": "Salt",
+            "quantity": "1",
+            "unit": "Kg",
+            "department": "Grocery",
+            "notes": "Powder"
+        }
+    ]
+}
